@@ -23,7 +23,7 @@ ENV AWS_SECRET_ACCESS_KEY="AKIAFAKESECRETKEsamv_cionly"
 ENV PASSWORD="samv"
 
 # Expose port
-EXPOSE 6668
+EXPOSE 6666
 
 # Default to Bash shell with sudo
 CMD ["bash"]
